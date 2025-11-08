@@ -1,6 +1,7 @@
 # BuoySense - Flood Monitoring Dashboard
 
-![BuoySense Banner](public/placeholder-logo.png)
+<img width="2495" height="1299" alt="image" src="https://github.com/user-attachments/assets/033d04e6-19b5-4a32-be69-ef9e7eeeca58" />
+<img width="2506" height="1301" alt="image" src="https://github.com/user-attachments/assets/7958587d-d77e-4571-8957-3e8a7cdb2cb3" />
 
 A real-time IoT flood monitoring system dashboard built with Next.js 16, featuring interactive 3D buoy visualization, live sensor data tracking, and comprehensive analytics.
 
