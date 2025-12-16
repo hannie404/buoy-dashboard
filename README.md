@@ -191,7 +191,7 @@ buoy-sense-app-dashboard/
 
 ## 🔐 Authentication
 
-Default login credentials (mock authentication):
+Default login credentials:
 - **Email**: admin@buoysense.com
 - **Password**: admin123
 
